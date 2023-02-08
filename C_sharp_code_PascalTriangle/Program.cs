@@ -52,6 +52,7 @@ void Magic()
 
 Console.ReadLine();
 FillTriangle();
+Console.WriteLine("ВОТ и ОН!!!");
 PrintTriangle();
 Console.ReadLine();
 Magic();
